@@ -5,7 +5,7 @@ This projetc is for the learnng purpose. It includes  building Liner Regression 
 
 2. SFrames
 
-3. Matplotlib
+3. Matplotlib 
 
 4. PTL :  Python Template Language ->  make it easier to generate HTML pages (or other forms of text)  , Don't worry I am not going to do some 										  advance level of web development here but just using image part og PLT to display images
 
